@@ -138,6 +138,11 @@ ul ul, ul ol, ol ul, ol ol {
     margin-bottom: 2em;
   }
 }
+@media screen and (max-width: 768px) {
+  #fh5co-content {
+    padding: 16px;
+  }
+}
 #fh5co-header #fh5co-logo {
   margin-bottom: .7em;
 }
