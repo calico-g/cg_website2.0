@@ -133,6 +133,11 @@ ul ul, ul ol, ol ul, ol ol {
   margin-bottom: 5em;
 }
 @media screen and (max-width: 768px) {
+  .troublesome-monk {
+    display: none; !important;
+  }
+}
+@media screen and (max-width: 768px) {
   #fh5co-header {
     margin-top: 4em;
     margin-bottom: 2em;
